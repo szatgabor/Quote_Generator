@@ -1,4 +1,5 @@
 let apiQuotes = [];
+
 //show New Quote
 function newQuote(){
     //Pick a random quote from apiQuotes array
