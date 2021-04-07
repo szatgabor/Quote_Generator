@@ -13,7 +13,8 @@ The code made by HTML5, CSS3 and Javascript
  - Google fonts: Neuton
 
 #### Description
-The app is using an external API that is randomly sending the quotes and authors. 
+The app is using an external API that is randomly sending the quotes and authors.
+
 Link: http://api.forismatic.com/api/1.0/
 
 For local JSON API you can find the function code in the comments. 
