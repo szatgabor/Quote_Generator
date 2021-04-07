@@ -20,5 +20,6 @@ For local JSON API you can find the function code in the comments.
 The loader animation is made by CSS.
 
 The CORS error fixed by the **CORS Anywhere** that is a NodeJS reverse proxy made by Rob--W.
+
 Link: https://github.com/Rob--W/cors-anywhere/
 The deployment is going through via Heroku.
